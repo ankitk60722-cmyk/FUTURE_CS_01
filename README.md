@@ -35,7 +35,7 @@ This task involved performing a security assessment on a publicly available web 
 The complete technical documentation, findings, and supporting screenshots are available inside the Task 1 folder.
 
 ---
-
+```
 ## 📂 Repository Structure  
 
 FUTURE_CS_01
@@ -48,6 +48,7 @@ FUTURE_CS_01
 └── Screenshots/
 
 
+```
 ---
 
 ## 🛠 Tools & Technologies Used  
