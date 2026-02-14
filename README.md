@@ -37,7 +37,7 @@ The complete technical documentation, findings, and supporting screenshots are a
 ---
 
 ## 📂 Repository Structure  
-'''
+
 FUTURE_CS_01
 │
 ├── README.md
@@ -46,7 +46,7 @@ FUTURE_CS_01
 ├── README.md
 ├── Vulnerability_Report.pdf
 └── Screenshots/
-'''
+
 
 ---
 
